@@ -9,7 +9,7 @@ Manbat
 # Team Member
 - [Muhannad Mahmoud Abdelaty (Team leader)](https://github.com/mohnedmahmoud772-tech)
 - [Fares Abdelbari El-sayed](https://github.com/FaresAbdelbari)
-- Abdullah Mohamed Diab
+- [Abdullah Mohamed Diab](https://github.com/Abdallah86111/Abdullah-Diab)
 - Hana Mansour AbdelLatif
 - Leena Ashraf AbdelHalim
 - Yassmine Wael Mohamed
