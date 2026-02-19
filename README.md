@@ -62,3 +62,33 @@ AI-based diagnosis depends on the accuracy of user-provided data and may require
 Price updates depend on the reliability of external data sources.
 The application is initially designed for local/regional use; scaling to wider markets will require additional technical planning.
 
+# Project Plan
+الأسبوع 1 | Research & Discovery
+-----------------------------------------
+- User Research (Personas, Surveys, Interviews)
+- Competitive Analysis
+- User Journey & Pain Points
+Deliverables: Personas, User Journey Map, Research Insights
+
+الأسبوع 2 | Wireframing & IA
+-----------------------------------------
+- Information Architecture / Sitemap
+- Low-fidelity Wireframes لكل الشاشات
+- مراجعة مع العميل/الفريق
+Deliverables: Sitemap, Low-fidelity Wireframes
+
+الأسبوع 3 | UI Design & Mockups
+-----------------------------------------
+- Style Guide / UI Kit (Colors, Typography, Components)
+- High-fidelity Mockups لكل الشاشات
+- Interactive Prototype (Click-through)
+Deliverables: UI Kit, Mockups, Interactive Prototype
+
+الأسبوع 4 | Testing & Refinement
+-----------------------------------------
+- Usability Testing مع مستخدمين أو محاكاة
+- جمع Feedback وتحسين التصميم (Iteration)
+- إضافة Micro-interactions / Animations في Prototype
+- تجهيز النسخة النهائية للعرض أو التسليم للعميل
+Deliverables: Final Interactive Prototype + Presentation
+
