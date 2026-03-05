@@ -13,6 +13,7 @@ Manbat
 - [Hana Mansour AbdelLatif](https://github.com/hanamansour0)
 - [Leena Ashraf AbdelHalim](https://github.com/leenaayoussef)
 - [Yassmine Wael Mohamed](https://github.com/yassminewael)
+- [Omar Ahmed Kamal](https://github.com/omarS0d)
 
 # Project Overview
 The project is a mobile application and website designed specifically for farmers, enabling
